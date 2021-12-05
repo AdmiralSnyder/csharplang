@@ -156,6 +156,8 @@ The members of a simple type correspond directly to the members of the struct ty
 *  The members of `double` are the members of the `System.Double` struct.
 *  The members of `decimal` are the members of the `System.Decimal` struct.
 *  The members of `bool` are the members of the `System.Boolean` struct.
+*  The members of `nint` are the members of the `System.IntPtr` struct.
+*  The members of `nuint` are the members of the `System.UIntPtr` struct.
 
 ### Enumeration members
 
